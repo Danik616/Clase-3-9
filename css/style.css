@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+p {
+  color: lightblue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  color: black;
+  float: right;
+  display: flex;
+}
+li {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.collapse {
+  display: flex;
+  padding-left: 0;
+}
+
+.container {
+  width: 100%;
+}
+.col-3 {
+  width: 100%;
+  display: inline-block;
+}
+.navbar {
+  height: 50px;
+  display: inline-block;
+}
+
+.navegador {
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: space-between;
+}
