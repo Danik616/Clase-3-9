@@ -42,3 +42,6 @@ li {
   align-items: center;
   justify-content: space-between;
 }
+.resumen-div {
+  padding: 3rem;
+}
